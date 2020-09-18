@@ -12,7 +12,7 @@
 В функции makeStep класса AIPlayer есть опция выбора типа хода - при помощи таблицы ценности (жадный ход) или случайный ход, оба агента используют соответствующий тип хода.
 Таблица ценности хранится в файле **rewards.json** который нужно загрузить в тот же каталог в котором находится код игры, так как в этот файл загружаются ценности состояний, которые потом используются в игре.<br>
 При разработке использовались следующие источники:
-- https://medium.com/machine-learning-guy/an-introduction-to-decision-tree-learning-id3-algorithm-54c74eb2ad55
+- https://alex-yashin.ru/blog/20171215-tictactoe-simple-ai.html
 - https://github.com/alex-yashin/tictactoe-ai
 
 Кирилл Прохоров<br>
